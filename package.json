@@ -1,0 +1,11 @@
+{
+  "name": "adhkar-ts-istighfar-wird-tracker",
+  "version": "1.0.0",
+  "description": "Daily Wird, Sayyid Al-Istighfar & Salawat Streak Analytics Engine (متتبع الأوراد اليومية والاستغفار والصلاة على النبي)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
